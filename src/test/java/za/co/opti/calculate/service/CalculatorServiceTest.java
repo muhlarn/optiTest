@@ -43,7 +43,7 @@ public class CalculatorServiceTest extends TestCase {
 	@Test
 	public void testGetWomenAndChildrenPopulation() {
 		
-		logger.info("running testGetWomenAndChildrenPopulation");
+		logger.info("running testGetWomenAndChildrenPopulation ...");
 		try {
 			// IF
 			int womenCount = 450;
